@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.KotlinCalculaterapp" parent="Theme.AppCompat">
+
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/almostblack</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+    </style>
+</resources>
